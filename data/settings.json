@@ -1,6 +1,10 @@
 {
   "sidebar": [
     {
+      "section": "Test",
+      "topics": ""
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
