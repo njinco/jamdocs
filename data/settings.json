@@ -24,7 +24,12 @@
     },
     {
       "section": "Test",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Test-1",
+          "slug": "test"
+        }
+      ]
     }
   ]
 }
