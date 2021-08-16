@@ -21,15 +21,6 @@
           "slug": "forestry-cms"
         }
       ]
-    },
-    {
-      "section": "Test",
-      "topics": [
-        {
-          "title": "Testing",
-          "slug": "test"
-        }
-      ]
     }
   ]
 }
